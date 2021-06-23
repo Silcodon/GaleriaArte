@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Galeria",
+  "homepage": "https://exerciciolambda.s3.amazonaws.com/build",
+  "name": "Galeria de Arte",
   "icons": [
     {
       "src": "favicon.ico",
